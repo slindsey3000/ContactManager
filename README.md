@@ -3,6 +3,7 @@ Contact Manager Application
 
 # Setup
 bundle install
+
 rake db:migrate RAILS_ENV=production
 
 # On first use or to re-read the .csv 
